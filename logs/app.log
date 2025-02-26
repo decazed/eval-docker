@@ -1,0 +1,67 @@
+2025-02-26T13:43:34.031Z - Erreur de connexion à la base de données : connect ECONNREFUSED 172.20.0.2:3306
+2025-02-26T13:44:19.853Z - Erreur lors de la requête à la base de données : Cannot enqueue Query after fatal error.
+2025-02-26T14:09:17.153Z - Erreur de connexion à la base de données : connect ECONNREFUSED 172.20.0.2:3306
+2025-02-26T14:09:36.762Z - Erreur lors de la requête à la base de données : Cannot enqueue Query after fatal error.
+2025-02-26T14:11:03.757Z - Erreur de connexion à la base de données : connect ECONNREFUSED 172.21.0.2:3306
+2025-02-26T14:11:39.427Z - Erreur lors de la requête à la base de données : Cannot enqueue Query after fatal error.
+2025-02-26T14:15:48.269Z - Erreur de connexion à la base de données : connect ECONNREFUSED 172.21.0.2:3306
+2025-02-26T14:16:02.210Z - Erreur lors de la requête à la base de données : Cannot enqueue Query after fatal error.
+2025-02-26T14:20:27.714Z - Erreur de connexion à la base de données : connect ECONNREFUSED 172.21.0.2:3306
+2025-02-26T14:20:27.717Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:20:33.675Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:20:33.683Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:20:38.685Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:20:38.687Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:20:43.689Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:20:43.692Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:20:48.695Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:20:48.697Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:20:53.705Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:22:06.539Z - Erreur de connexion à la base de données : connect ECONNREFUSED 172.21.0.2:3306
+2025-02-26T14:22:06.546Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:22:11.555Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:22:11.559Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:22:16.562Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:22:16.564Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:22:21.571Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:22:21.574Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:22:26.580Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:22:26.582Z - Nouvelle tentative dans 5 secondes...
+2025-02-26T14:22:31.584Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:28:25.955Z - Erreur de connexion à la base de données : connect ECONNREFUSED 172.21.0.2:3306
+2025-02-26T14:28:31.753Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:28:36.757Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:28:39.318Z - Erreur lors de la requête à la base de données : Cannot enqueue Query after fatal error.
+2025-02-26T14:28:41.759Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:28:48.759Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:28:53.762Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:28:58.766Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:04.669Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:09.676Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:14.682Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:19.686Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:24.694Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:29.697Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:36.574Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:41.583Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:46.591Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:51.598Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:29:56.606Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:01.609Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:08.533Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:13.542Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:18.551Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:23.559Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:28.566Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:34.332Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:40.464Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:45.471Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:50.476Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:30:55.481Z - Erreur de connexion à la base de données : Cannot enqueue Handshake after fatal error.
+2025-02-26T14:34:03.870Z - Connexion réussie à la base de données
+2025-02-26T14:34:24.984Z - Requête réussie à la base de données : {"now":"2025-02-26T14:34:24.973Z"}
+2025-02-26T14:42:40.790Z - Connexion réussie à la base de données
+2025-02-26T14:48:04.417Z - Connexion réussie à la base de données
+2025-02-26T14:49:52.524Z - Connexion réussie à la base de données
+2025-02-26T14:54:06.099Z - Connexion réussie à la base de données
+2025-02-26T14:54:23.513Z - Requête réussie à la base de données : {"now":"2025-02-26T14:54:23.495Z"}
