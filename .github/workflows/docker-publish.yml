@@ -35,14 +35,13 @@ jobs:
           docker push decazed/eval-docker-db
 
       - name: Send notification to Discord
-        uses: tsickert/discord-webhook@v5
+        uses: Ilshidur/action-discord@master
         with:
-          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
-          username: "GitHub Actions"
-          avatar-url: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-          content: |
+          args: |
             🚀 **Nouvelle image Docker publiée !**
             🔹 Web: `decazed/eval-docker-web`
             🔹 DB: `decazed/eval-docker-db`
             🔹 Version: `${{ github.ref_name }}`
             🔹 Docker Hub: [Web](https://hub.docker.com/r/decazed/eval-docker-web) | [DB](https://hub.docker.com/r/decazed/eval-docker-db)
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
